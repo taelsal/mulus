@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://mulus.pages.dev/sitemap.xml
